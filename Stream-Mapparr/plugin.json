@@ -1,6 +1,6 @@
 {
   "name": "Stream-Mapparr",
-  "key": "stream-mapparr",
+  "key": "stream_mapparr",
   "module": "stream_mapparr.plugin",
   "class": "Plugin",
   "description": "Automatically add matching streams to channels based on name similarity and quality precedence. Supports unlimited stream matching, channel visibility management, and CSV export cleanup.",
