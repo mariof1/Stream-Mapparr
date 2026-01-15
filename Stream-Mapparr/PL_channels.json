@@ -1,0 +1,82 @@
+{
+  "country_code": "PL",
+  "country_name": "Poland",
+  "version": "2026-01-15",
+  "channels": [
+    { "channel_name": "TVP1", "category": "Poland", "type": "National" },
+    { "channel_name": "TVP 1", "category": "Poland", "type": "National" },
+    { "channel_name": "TVP2", "category": "Poland", "type": "National" },
+    { "channel_name": "TVP 2", "category": "Poland", "type": "National" },
+    { "channel_name": "TVP Info", "category": "Poland", "type": "National" },
+    { "channel_name": "TVP Sport", "category": "Poland", "type": "National" },
+    { "channel_name": "TVP Kultura", "category": "Poland", "type": "National" },
+    { "channel_name": "TVP Historia", "category": "Poland", "type": "National" },
+    { "channel_name": "TVP Seriale", "category": "Poland", "type": "National" },
+    { "channel_name": "TVP ABC", "category": "Poland", "type": "National" },
+    { "channel_name": "TVP Polonia", "category": "Poland", "type": "National" },
+    { "channel_name": "TVP World", "category": "Poland", "type": "National" },
+
+    { "channel_name": "Polsat", "category": "Poland", "type": "National" },
+    { "channel_name": "Polsat HD", "category": "Poland", "type": "National" },
+    { "channel_name": "Polsat News", "category": "Poland", "type": "News" },
+    { "channel_name": "Polsat News 2", "category": "Poland", "type": "News" },
+    { "channel_name": "Polsat Sport", "category": "Poland", "type": "Sports" },
+    { "channel_name": "Polsat Sport Extra", "category": "Poland", "type": "Sports" },
+    { "channel_name": "Polsat Sport Premium 1", "category": "Poland", "type": "Sports" },
+    { "channel_name": "Polsat Sport Premium 2", "category": "Poland", "type": "Sports" },
+    { "channel_name": "TV4", "category": "Poland", "type": "National" },
+    { "channel_name": "TV6", "category": "Poland", "type": "National" },
+    { "channel_name": "Super Polsat", "category": "Poland", "type": "National" },
+    { "channel_name": "Polsat Film", "category": "Poland", "type": "Movies" },
+    { "channel_name": "Polsat Cafe", "category": "Poland", "type": "Lifestyle" },
+    { "channel_name": "Polsat Play", "category": "Poland", "type": "Entertainment" },
+    { "channel_name": "Polsat Games", "category": "Poland", "type": "Entertainment" },
+    { "channel_name": "Polsat JimJam", "category": "Poland", "type": "Kids" },
+
+    { "channel_name": "TVN", "category": "Poland", "type": "National" },
+    { "channel_name": "TVN HD", "category": "Poland", "type": "National" },
+    { "channel_name": "TVN24", "category": "Poland", "type": "News" },
+    { "channel_name": "TVN7", "category": "Poland", "type": "National" },
+    { "channel_name": "TTV", "category": "Poland", "type": "Entertainment" },
+    { "channel_name": "Metro", "category": "Poland", "type": "Entertainment" },
+
+    { "channel_name": "CANAL+ Premium", "category": "Poland", "type": "Premium" },
+    { "channel_name": "CANAL+ Film", "category": "Poland", "type": "Premium" },
+    { "channel_name": "CANAL+ Seriale", "category": "Poland", "type": "Premium" },
+    { "channel_name": "CANAL+ Sport", "category": "Poland", "type": "Premium" },
+    { "channel_name": "CANAL+ Sport 2", "category": "Poland", "type": "Premium" },
+    { "channel_name": "CANAL+ Family", "category": "Poland", "type": "Premium" },
+    { "channel_name": "CANAL+ 1", "category": "Poland", "type": "Premium" },
+
+    { "channel_name": "Eleven Sports 1", "category": "Poland", "type": "Sports" },
+    { "channel_name": "Eleven Sports 2", "category": "Poland", "type": "Sports" },
+    { "channel_name": "Eleven Sports 3", "category": "Poland", "type": "Sports" },
+    { "channel_name": "Eleven Sports 4", "category": "Poland", "type": "Sports" },
+
+    { "channel_name": "Eurosport 1", "category": "Poland", "type": "Sports" },
+    { "channel_name": "Eurosport 2", "category": "Poland", "type": "Sports" },
+
+    { "channel_name": "HBO", "category": "Poland", "type": "Movies" },
+    { "channel_name": "HBO 2", "category": "Poland", "type": "Movies" },
+    { "channel_name": "HBO 3", "category": "Poland", "type": "Movies" },
+    { "channel_name": "Cinemax", "category": "Poland", "type": "Movies" },
+    { "channel_name": "Cinemax 2", "category": "Poland", "type": "Movies" },
+
+    { "channel_name": "Discovery Channel", "category": "Poland", "type": "Documentary" },
+    { "channel_name": "National Geographic", "category": "Poland", "type": "Documentary" },
+    { "channel_name": "Nat Geo Wild", "category": "Poland", "type": "Documentary" },
+
+    { "channel_name": "Nickelodeon", "category": "Poland", "type": "Kids" },
+    { "channel_name": "Cartoon Network", "category": "Poland", "type": "Kids" },
+    { "channel_name": "Disney Channel", "category": "Poland", "type": "Kids" },
+
+    { "channel_name": "Eska TV", "category": "Poland", "type": "Music" },
+    { "channel_name": "4FUN TV", "category": "Poland", "type": "Music" },
+
+    { "channel_name": "Kino Polska", "category": "Poland", "type": "Movies" },
+    { "channel_name": "TV Puls", "category": "Poland", "type": "National" },
+    { "channel_name": "Puls 2", "category": "Poland", "type": "National" },
+    { "channel_name": "TV Trwam", "category": "Poland", "type": "National" },
+    { "channel_name": "TV Republika", "category": "Poland", "type": "News" }
+  ]
+}
