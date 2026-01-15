@@ -74,6 +74,22 @@ Look for "**✅ [ACTION] COMPLETED**" or "**📄 CSV EXPORT CREATED**" to know w
 3.  Click **Import Plugin** and upload the plugin zip file.
 4.  Enable the plugin after installation.
 
+## Build From Your Fork
+
+If you want to customize this plugin and build your own zip for Dispatcharr:
+
+1. Clone your fork and open the repo folder.
+2. Build the zip:
+    ```bash
+    python3 build_plugin_zip.py
+    ```
+    The output will be created under `./dist/` (example: `dist/Stream-Mapparr-0.7.3.zip`).
+3. In Dispatcharr UI, go to **Plugins** → **Import Plugin** and upload the zip from `dist/`.
+
+Notes:
+- Dispatcharr expects `plugin.json` at the root of the zip and a Python package folder named `stream_mapparr/`.
+- This repo stores source files under `Stream-Mapparr/`, and the build script maps that into the expected layout.
+
 ## Updating the Plugin
 To update Channel Mapparr from a previous version:
 
